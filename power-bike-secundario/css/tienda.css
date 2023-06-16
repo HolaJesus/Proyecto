@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../imagenes/new_wave_824.3172954305243.svg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+    backdrop-filter: blur(3px);
+  }
