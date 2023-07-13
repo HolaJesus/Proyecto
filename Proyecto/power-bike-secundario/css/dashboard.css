@@ -1,0 +1,13 @@
+.nav-pills{
+  --bs-nav-pills-link-active-bg: #dc3545;
+}
+.dashboard-style{
+  position: fixed;
+  
+}
+.col-sm-9{
+  margin-left: 25%;
+}
+.ver{
+  display: none;
+}
