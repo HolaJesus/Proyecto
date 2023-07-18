@@ -1,6 +1,6 @@
 # Proyecto
 
-##Compromisos
+## Compromisos
 
 -[]
 Terminar dashboard diseño y colores
